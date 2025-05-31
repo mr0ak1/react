@@ -1,0 +1,16 @@
+.btn-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 65px;
+  padding: 5px;
+  justify-content: space-evenly;
+}
+
+.btn-container button {
+  height: 55px;
+  width: 85px;
+  border: 1.8px solid white;
+}
